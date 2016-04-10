@@ -1,5 +1,5 @@
 def say_it()
-    msg = "Bite Me, VS Code!!!"
+    msg = "Bite Me, VS Code (with Ruby)!!!"
     puts msg
 end
 
