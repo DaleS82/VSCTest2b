@@ -9,8 +9,8 @@ end
 
 def another_function()
     x = 7
-    y = x*x - 1
-    z = 3*y + 4
+    y = x * x - 1
+    z = 3 * y + 4
     z
 end
 
