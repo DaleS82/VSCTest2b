@@ -1,0 +1,13 @@
+{
+    "fileHeaderCommentHelper.languageConfigs": {
+        "language_ruby": {
+            "template": [
+                "#################",
+                "# Project: $(projectName)",
+                "# File: $(currentFile)",
+                "# Author:  Dale Skinner",
+                "#################\n"
+            ]
+        }
+    }
+}    
